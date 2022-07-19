@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natalyalisova
 - 👀 I’m interested in Front End development and Web Design
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Angular and RxJS
 
 
 <!---
